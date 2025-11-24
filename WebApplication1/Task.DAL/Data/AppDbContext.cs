@@ -12,13 +12,12 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
     public DbSet<Comment> Comments => Set<Comment>();
     public DbSet<Like> Likes => Set<Like>();
     public DbSet<Notification> Notifications => Set<Notification>();
-    public DbSet<EmailConfirmationToken> EmailConfirmationTokens { get; set; }
-    public object RefreshTokens { get; set; }
+    public DbSet<EmailConfirmationToken> EmailConfirmationTokens => Set<EmailConfirmationToken>();
+    public DbSet<RefreshToken> RefreshTokens => Set<RefreshToken>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
-
 
         modelBuilder.Entity<RefreshToken>()
                     .HasOne(rt => rt.User)
@@ -30,7 +29,6 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
             .HasIndex(t => t.Token)
             .IsUnique(false);
 
-        // if User has Email unique constraint (recommended)
         modelBuilder.Entity<User>()
             .HasIndex(u => u.Email)
             .IsUnique(true);
@@ -39,6 +37,7 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
             .HasIndex(u => u.UserName)
             .IsUnique();
 
+        // منمنع اليوزر يعمل لايك أكتر من مرة لنفس البوست
         modelBuilder.Entity<Like>()
             .HasIndex(l => new { l.PostId, l.UserId })
             .IsUnique();

@@ -8,7 +8,6 @@ using DAL.Entities;
 
 namespace BLL.Services
 {
-    // خدمة بسيطة لتوليد JWT
     public class JwtService
     {
         private readonly IConfiguration _config;
@@ -17,7 +16,6 @@ namespace BLL.Services
             _config = config;
         }
 
-        // يولد توكن JWT بناءً على بيانات اليوزر
         public string GenerateToken(User user)
         {
             if (user == null) throw new ArgumentNullException(nameof(user));
