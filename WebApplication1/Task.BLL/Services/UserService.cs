@@ -29,7 +29,7 @@ namespace BLL.Services
             _config = config;
         }
 
-        // --- existing Hash/VerifyPassword methods kept as before ---
+        // هاي بتعمل hash للباسوورد مع salt عشان الأمان
         private string HashPassword(string password)
         {
             using var rng = RandomNumberGenerator.Create();
@@ -64,22 +64,20 @@ namespace BLL.Services
             }
         }
 
-        // Helper: generate secure random token string (base64url safe)
+        // بتولد توكن عشوائي آمن
         private string GenerateRandomTokenString(int size = 48)
         {
             var bytes = new byte[size];
             using var rng = RandomNumberGenerator.Create();
             rng.GetBytes(bytes);
-            // use Base64Url (replace +/ with -_)
             var token = Convert.ToBase64String(bytes);
             token = token.Replace("+", "-").Replace("/", "_").Replace("=", "");
             return token;
         }
 
-        // Create refresh token entity and save
         private RefreshToken CreateRefreshToken(string ipAddress)
         {
-            var ttlMinutes = _config.GetValue<int?>("Jwt:RefreshTokenExpiresMinutes") ?? 60 * 24 * 7; // default 7 days
+            var ttlMinutes = _config.GetValue<int?>("Jwt:RefreshTokenExpiresMinutes") ?? 60 * 24 * 7;
             return new RefreshToken
             {
                 Token = GenerateRandomTokenString(64),
@@ -90,7 +88,6 @@ namespace BLL.Services
             };
         }
 
-        // Login -> returns access + refresh
         public async Task<(bool Success, AuthResponseDto Response, string Error)> LoginAsync(string email, string password, string ipAddress)
         {
             if (string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(password))
@@ -101,15 +98,13 @@ namespace BLL.Services
             if (!VerifyPassword(user.PasswordHash, password)) return (false, null, "Invalid credentials");
             if (!user.IsEmailConfirmed) return (false, null, "Email not confirmed");
 
-            // access token
             var accessToken = _jwt.GenerateToken(user);
 
-            // create refresh token and save
             var refreshToken = CreateRefreshToken(ipAddress);
             user.RefreshTokens ??= new System.Collections.Generic.List<RefreshToken>();
             user.RefreshTokens.Add(refreshToken);
 
-            // cleanup old expired tokens (optional)
+            // بننضف التوكنات القديمة المنتهية
             user.RefreshTokens = user.RefreshTokens.Where(rt => !rt.Revoked && rt.Expires > DateTime.UtcNow.AddDays(-30)).ToList();
 
             await _db.SaveChangesAsync();
@@ -126,7 +121,7 @@ namespace BLL.Services
             return (true, resp, null);
         }
 
-        // Refresh flow: rotate token (create new refresh token, revoke old)
+        // هون بنعمل refresh للتوكن: بنلغي القديم وبنعطي واحد جديد
         public async Task<(bool Success, AuthResponseDto Response, string Error)> RefreshTokenAsync(string token, string ipAddress)
         {
             if (string.IsNullOrWhiteSpace(token)) return (false, null, "Token is required");
@@ -140,7 +135,6 @@ namespace BLL.Services
             if (dbToken.Revoked) return (false, null, "Refresh token revoked");
             if (dbToken.Expires < DateTime.UtcNow) return (false, null, "Refresh token expired");
 
-            // rotate: revoke current, issue new one
             dbToken.Revoked = true;
             dbToken.RevokedByIp = ipAddress;
 
@@ -148,11 +142,9 @@ namespace BLL.Services
             newRefreshToken.CreatedAt = DateTime.UtcNow;
             newRefreshToken.UserId = dbToken.UserId;
 
-            // save
             _db.Set<RefreshToken>().Add(newRefreshToken);
             await _db.SaveChangesAsync();
 
-            // generate new access token
             var newAccessToken = _jwt.GenerateToken(dbToken.User);
 
             var resp = new AuthResponseDto
@@ -165,7 +157,6 @@ namespace BLL.Services
             return (true, resp, null);
         }
 
-        // Revoke a refresh token (logout)
         public async Task<(bool Success, string Error)> RevokeRefreshTokenAsync(string token, string ipAddress)
         {
             if (string.IsNullOrWhiteSpace(token)) return (false, "Token is required");
@@ -190,7 +181,5 @@ namespace BLL.Services
         {
             throw new NotImplementedException();
         }
-
-        // باقي دوال Register/ConfirmEmail إلخ موجودة في نفس الملف كما قبل...
     }
 }

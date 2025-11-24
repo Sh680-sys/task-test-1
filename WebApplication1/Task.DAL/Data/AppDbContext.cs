@@ -19,7 +19,6 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
     {
         base.OnModelCreating(modelBuilder);
 
-
         modelBuilder.Entity<RefreshToken>()
                     .HasOne(rt => rt.User)
                     .WithMany(u => u.RefreshTokens)
@@ -30,7 +29,6 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
             .HasIndex(t => t.Token)
             .IsUnique(false);
 
-        // if User has Email unique constraint (recommended)
         modelBuilder.Entity<User>()
             .HasIndex(u => u.Email)
             .IsUnique(true);
@@ -39,6 +37,7 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
             .HasIndex(u => u.UserName)
             .IsUnique();
 
+        // منمنع اليوزر يعمل لايك أكتر من مرة لنفس البوست
         modelBuilder.Entity<Like>()
             .HasIndex(l => new { l.PostId, l.UserId })
             .IsUnique();

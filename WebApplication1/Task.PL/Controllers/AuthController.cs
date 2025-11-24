@@ -18,19 +18,15 @@ namespace PL.Controllers
             _users = users;
         }
 
-        // POST: api/auth/login
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginDto dto)
         {
             var ip = HttpContext.Connection.RemoteIpAddress?.ToString() ?? "unknown";
             var (success, response, error) = await _users.LoginAsync(dto.Email, dto.Password, ip);
             if (!success) return BadRequest(new { message = error });
-
-            // ممكن تخزن الريفرش توكن في httpOnly cookie بدل body لو تحب
             return Ok(response);
         }
 
-        // POST: api/auth/refresh
         [HttpPost("refresh")]
         public async Task<IActionResult> Refresh([FromBody] RefreshRequestDto dto)
         {
@@ -40,7 +36,6 @@ namespace PL.Controllers
             return Ok(response);
         }
 
-        // POST: api/auth/revoke
         [Authorize]
         [HttpPost("revoke")]
         public async Task<IActionResult> Revoke([FromBody] RevokeRequestDto dto)

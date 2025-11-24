@@ -17,36 +17,26 @@ using Task.BLL.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// -----------------------------
-// DbContext
-// -----------------------------
+// قاعدة البيانات
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlite(builder.Configuration.GetConnectionString("Default"));
 });
 
-// -----------------------------
-// Repositories and UoW
-// -----------------------------
+// Repositories و Unit of Work
 builder.Services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
 builder.Services.AddScoped<IPostRepository, PostRepository>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
-// -----------------------------
-// Services (BLL)
-// -----------------------------
+// الخدمات (Business Logic)
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ITodoService, TodoService>();
 builder.Services.AddScoped<IPostService, PostService>();
 builder.Services.AddScoped<INotificationService, NotificationService>();
+builder.Services.AddScoped<Task.BLL.Interfaces.IEmailSender, EmailSender>();
+builder.Services.AddSingleton<JwtService>();
 
-// Email sender & JWT services
-builder.Services.AddScoped<Task.BLL.Interfaces.IEmailSender, EmailSender>(); // خدمة إرسال الإيميل (SMTP)
-builder.Services.AddSingleton<JwtService>(); // خدمة توليد التوكنات
-
-// -----------------------------
 // AutoMapper
-// -----------------------------
 builder.Services.AddAutoMapper(cfg => cfg.AddProfile<DomainProfile>());
 
 
@@ -54,14 +44,11 @@ builder.Services.AddAutoMapper(cfg => cfg.AddProfile<DomainProfile>());
 
 
 
-// -----------------------------
-// JWT Authentication setup
-// -----------------------------
+// إعدادات JWT Authentication
 var jwtSection = builder.Configuration.GetSection("Jwt");
 var jwtKey = jwtSection.GetValue<string>("Key");
 if (string.IsNullOrWhiteSpace(jwtKey))
 {
-    // وإذا ما محطّين المفتاح يطلع خطأ واضح بدل يصير silent fail
     throw new Exception("JWT Key is not configured. Please set Jwt:Key in appsettings.json or environment.");
 }
 
@@ -74,7 +61,6 @@ builder.Services.AddAuthentication(options =>
 })
 .AddJwtBearer(options =>
 {
-    // في التطوير ممكن نخلي RequireHttpsMetadata=false، بالإنتاج خليها true
     options.RequireHttpsMetadata = false;
     options.SaveToken = true;
     options.TokenValidationParameters = new TokenValidationParameters
@@ -86,20 +72,16 @@ builder.Services.AddAuthentication(options =>
         ValidateIssuerSigningKey = true,
         IssuerSigningKey = new SymmetricSecurityKey(keyBytes),
         ValidateLifetime = true,
-        ClockSkew = TimeSpan.FromSeconds(30) // توازن بسيط بخصوص فرق التوقيت
+        ClockSkew = TimeSpan.FromSeconds(30)
     };
 });
 
-// -----------------------------
-// Controllers + Swagger
-// -----------------------------
+// Controllers و Swagger
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// -----------------------------
 // CORS
-// -----------------------------
 builder.Services.AddCors(opt =>
 {
     opt.AddDefaultPolicy(policy => policy
@@ -110,18 +92,13 @@ builder.Services.AddCors(opt =>
 
 var app = builder.Build();
 
-// -----------------------------
-// Apply Migrations automatically on startup
-// -----------------------------
+// تطبيق Migrations تلقائياً عند بدء التشغيل
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
     db.Database.Migrate();
 }
 
-// -----------------------------
-// Middleware pipeline
-// -----------------------------
 app.UseCors();
 
 if (app.Environment.IsDevelopment())
@@ -130,7 +107,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseAuthentication(); // مهم: لازم قبل Authorization و قبل MapControllers
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
