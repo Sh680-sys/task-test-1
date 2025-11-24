@@ -20,7 +20,6 @@ namespace BLL.Services
         private readonly IEmailSender _emailSender;
         private readonly JwtService _jwt;
         private readonly IConfiguration _config;
-        private object _context;
 
         public UserService(AppDbContext db, IEmailSender emailSender, JwtService jwt, IConfiguration config)
         {

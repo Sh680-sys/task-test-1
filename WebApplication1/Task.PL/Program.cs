@@ -41,10 +41,8 @@ builder.Services.AddScoped<IPostService, PostService>();
 builder.Services.AddScoped<INotificationService, NotificationService>();
 
 // Email sender & JWT services
-builder.Services.AddScoped<IEmailSender, EmailSender>(); // خدمة إرسال الإيميل (SMTP)
-builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<Task.BLL.Interfaces.IEmailSender, EmailSender>(); // خدمة إرسال الإيميل (SMTP)
 builder.Services.AddSingleton<JwtService>(); // خدمة توليد التوكنات
-// DI
 
 // -----------------------------
 // AutoMapper
