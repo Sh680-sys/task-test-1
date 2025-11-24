@@ -1,0 +1,1059 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\hubs\\hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\hubs\\hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\AppData\\Local\\Temp\\tmpF41E.tmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TASM\\STU9.ASM||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TASM\\STU8.ASM||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TASM\\STU7.ASM||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TASM\\STU6.ASM||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TASM\\STU4.MAP||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E8AE3-9AC5-4B49-AF56-A1C9465B96BE}|Task.PL\\Task.PL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243E8AE3-9AC5-4B49-AF56-A1C9465B96BE}|Task.PL\\Task.PL.csproj|solutionrelative:task.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E8AE3-9AC5-4B49-AF56-A1C9465B96BE}|Task.PL\\Task.PL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.pl\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243E8AE3-9AC5-4B49-AF56-A1C9465B96BE}|Task.PL\\Task.PL.csproj|solutionrelative:task.pl\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.dal\\task.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|solutionrelative:task.dal\\task.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|solutionrelative:task.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|solutionrelative:task.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.dal\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|solutionrelative:task.dal\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.dal\\entities\\emailconfirmationtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|Task.DAL\\Task.DAL.csproj|solutionrelative:task.dal\\entities\\emailconfirmationtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E8AE3-9AC5-4B49-AF56-A1C9465B96BE}|Task.PL\\Task.PL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.pl\\task.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{243E8AE3-9AC5-4B49-AF56-A1C9465B96BE}|Task.PL\\Task.PL.csproj|solutionrelative:task.pl\\task.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\webapplication1\\webapplication1\\task.bll\\task.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|Task.BLL\\Task.BLL.csproj|solutionrelative:task.bll\\task.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\MappingProfiles\\DomainProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\TodosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\PostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IPostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\TodoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreatePostDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\PostDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreateUserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\TodoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\ITodoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\CreateTodoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\Repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\PostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IPostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\NotificationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\INotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CommentItemDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\LikeItemDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\NotificationType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\NotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\NotificationsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Task.PL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\PostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Task.DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hub.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Hubs\\Hub.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\Hubs\\Hub.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Hubs\\Hub.cs",
+              "RelativeToolTip": "Task.BLL\\Hubs\\Hub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:48:43.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Task.BLL\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:41:08.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tmpF41E.tmp.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\AppData\\Local\\Temp\\tmpF41E.tmp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\tmpF41E.tmp.cs",
+              "ToolTip": "C:\\Users\\shath\\AppData\\Local\\Temp\\tmpF41E.tmp.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\tmpF41E.tmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:47:18.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "STU9.ASM",
+              "DocumentMoniker": "C:\\TASM\\STU9.ASM",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\TASM\\STU9.ASM",
+              "ToolTip": "C:\\TASM\\STU9.ASM",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\TASM\\STU9.ASM",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-22T15:28:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "STU8.ASM",
+              "DocumentMoniker": "C:\\TASM\\STU8.ASM",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\TASM\\STU8.ASM",
+              "ToolTip": "C:\\TASM\\STU8.ASM",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\TASM\\STU8.ASM",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-22T08:59:06.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "Task.BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAWwIcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:46:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "STU7.ASM",
+              "DocumentMoniker": "C:\\TASM\\STU7.ASM",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\TASM\\STU7.ASM",
+              "ToolTip": "C:\\TASM\\STU7.ASM",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\TASM\\STU7.ASM",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvysAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-22T08:31:37.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "STU6.ASM",
+              "DocumentMoniker": "C:\\TASM\\STU6.ASM",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\TASM\\STU6.ASM",
+              "ToolTip": "C:\\TASM\\STU6.ASM",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\TASM\\STU6.ASM",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-20T06:27:20.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "STU4.MAP",
+              "DocumentMoniker": "C:\\TASM\\STU4.MAP",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\TASM\\STU4.MAP",
+              "ToolTip": "C:\\TASM\\STU4.MAP",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\TASM\\STU4.MAP",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-20T05:39:25.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Task.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.PL\\Program.cs",
+              "RelativeToolTip": "Task.PL\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:19:08.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Interfaces\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Interfaces\\IEmailSender.cs",
+              "RelativeToolTip": "Task.BLL\\Interfaces\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:08:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.PL\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Task.PL\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.PL\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Task.PL\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:53:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task.DAL",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Task.DAL.csproj",
+              "RelativeDocumentMoniker": "Task.DAL\\Task.DAL.csproj",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Task.DAL.csproj",
+              "RelativeToolTip": "Task.DAL\\Task.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T20:50:45.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Task.DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Entities\\User.cs",
+              "RelativeToolTip": "Task.DAL\\Entities\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:07:59.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Task.BLL\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:46:14.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Services\\JwtService.cs",
+              "RelativeToolTip": "Task.BLL\\Services\\JwtService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:23:38.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "Task.BLL\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:45:34.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Task.BLL\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:43:23.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Task.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:03:19.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Task.DAL\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "Task.DAL\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:39:55.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Task.BLL\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:29:54.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Task.BLL\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Task.BLL\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:10:11.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailConfirmationToken.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Entities\\EmailConfirmationToken.cs",
+              "RelativeDocumentMoniker": "Task.DAL\\Entities\\EmailConfirmationToken.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.DAL\\Entities\\EmailConfirmationToken.cs",
+              "RelativeToolTip": "Task.DAL\\Entities\\EmailConfirmationToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:02:54.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Task.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Task.BLL.csproj",
+              "RelativeDocumentMoniker": "Task.BLL\\Task.BLL.csproj",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.BLL\\Task.BLL.csproj",
+              "RelativeToolTip": "Task.BLL\\Task.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T13:19:17.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Task.PL.csproj",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.PL\\Task.PL.csproj",
+              "RelativeDocumentMoniker": "Task.PL\\Task.PL.csproj",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\WebApplication1\\WebApplication1\\Task.PL\\Task.PL.csproj",
+              "RelativeToolTip": "Task.PL\\Task.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T13:18:12.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\appsettings.json",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T11:06:57.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Program.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:07:34.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DomainProfile.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\MappingProfiles\\DomainProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\MappingProfiles\\DomainProfile.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\MappingProfiles\\DomainProfile.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\MappingProfiles\\DomainProfile.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:22:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\TodosController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:17:15.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\GenericRepository.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\GenericRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:32:32.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\PostService.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\PostService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:59:54.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IPostService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IPostService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:59:07.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\TodoDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\TodoDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\TodoDto.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\TodoDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:58:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreatePostDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreatePostDto.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreatePostDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:13:50.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Post.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Post.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:27:11.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\PostDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\PostDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:58:55.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\UserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:03:05.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\UserDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:22:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CreateUserDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:09:29.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\IUserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:59:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\TodoService.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\TodoService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:35:12.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\ITodoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\ITodoService.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\ITodoService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:59:10.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateTodoDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\CreateTodoDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\CreateTodoDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\CreateTodoDto.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\CreateTodoDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T12:06:15.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\UnitOfWork.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:33:41.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\Repositories.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\Repositories.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\Repositories.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\Repositories.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:32:17.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\PostRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\PostRepository.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\PostRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:33:04.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IUnitOfWork.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:31:49.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:30:34.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IPostRepository.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Interfaces\\IPostRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:31:18.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\NotificationDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\NotificationDto.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\NotificationDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:59:21.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Interfaces\\INotificationService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:59:01.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CommentItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CommentItemDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CommentItemDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CommentItemDto.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\CommentItemDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:47:23.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Program.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Program.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:49:37.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LikeItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\LikeItemDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\LikeItemDto.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\LikeItemDto.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\DTOs\\LikeItemDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:47:54.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Todo.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Todo.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Todo.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Todo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:26:34.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\User.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:25:54.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\NotificationType.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\NotificationType.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\NotificationType.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\NotificationType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:28:25.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Notification.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Notification.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:28:54.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Like.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Like.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Like.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Like.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:28:02.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Comment.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\Comment.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:27:39.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Entities\\BaseEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:23:06.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Data\\AppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T10:29:39.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\NotificationService.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Services\\NotificationService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:03:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\NotificationsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:18:28.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Task.PL.csproj",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Task.PL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Task.PL.csproj",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Task.PL.csproj",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Task.PL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T11:19:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\PostsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:17:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\WebApplication1.PL\\Controllers\\UsersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:15:35.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Task.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Task.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Task.DAL.csproj",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Task.DAL.csproj",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Task.DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T09:48:31.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Program.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Program.cs",
+              "RelativeToolTip": "..\\..\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:45:37.277Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

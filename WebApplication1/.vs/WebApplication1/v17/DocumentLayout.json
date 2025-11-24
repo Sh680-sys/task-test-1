@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|ConsoleApp1,BLL\\ConsoleApp1,BLL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\asp shatha\\webapplication1\\consoleapp1,bll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA42D36-5661-4798-836B-D4861CF15BEF}|ConsoleApp1,BLL\\ConsoleApp1,BLL.csproj|solutionrelative:consoleapp1,bll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|ConsoleApp1.DAL\\ConsoleApp1.DAL.csproj|c:\\users\\shath\\onedrive - arab american university\\desktop\\asp shatha\\webapplication1\\consoleapp1.dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6CF786-8C54-4239-9155-1452B4E28EC8}|ConsoleApp1.DAL\\ConsoleApp1.DAL.csproj|solutionrelative:consoleapp1.dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1,BLL\\Program.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1,BLL\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1,BLL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:46:05.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1.DAL\\Program.cs",
+              "ToolTip": "C:\\Users\\shath\\OneDrive - Arab American University\\Desktop\\asp shatha\\WebApplication1\\ConsoleApp1.DAL\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1.DAL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:45:37.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
